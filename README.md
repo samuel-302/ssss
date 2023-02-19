@@ -1,4 +1,4 @@
-# SSSM - Simple Steam Skin Manager
+# SSSs - Simple Steam Skin Supervisor
 A simple skin manager for Steam on Linux that can install, upgrade and uninstall skins from a CLI environment.
 Mostly meant to be used with a package manager in order to automatically install, upgrade and uninstall a skin as the skin's package is installed, upgraded or uninstalled.
 
